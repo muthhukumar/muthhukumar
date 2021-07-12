@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Github actions, Travis CI and Testing javascript.**
 
-- 👨‍💻 All of my projects are available at [https://portfolio.nullish.in/](https://portfolio.nullish.in/)
-
 - 📝 I regularly write articles on [https://nullish.in](https://nullish.in)
 
 - 💬 Ask me about **React, React native, Testing javascript, Typescript, Nodejs, graphql, CSS and Anime maybe.**
