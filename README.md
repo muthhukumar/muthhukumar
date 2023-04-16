@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **React, React native, Testing javascript, Typescript, Nodejs, graphql, CSS and Anime maybe.**
 
-- 📫 How to reach me **muthukumarperiyasamy.mk@gmail.com**
-
 - ⚡ Fun fact **I don't know :)**
 
 <h3 align="left">Connect with me:</h3>
